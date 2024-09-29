@@ -6,13 +6,13 @@ This project is a web-based Optical Character Recognition (OCR) application that
 
 Features:
 
-Image Upload: Users can upload images containing text in English.
+* Image Upload: Users can upload images containing text in English.
 
-Text Extraction: Utilizes the GOT 2.0 model to extract text from the uploaded images.
+* Text Extraction: Utilizes the GOT 2.0 model to extract text from the uploaded images.
 
-Keyword Search: Users can search for specific keywords in the extracted text.
+* Keyword Search: Users can search for specific keywords in the extracted text.
 
-Highlight Matching Sections: Matching sections of the text are highlighted for better visibility.
+* Highlight Matching Sections: Matching sections of the text are highlighted for better visibility.
 
 Prerequisites:
 
@@ -33,19 +33,19 @@ Gradio
 
 Run the application:
 
-Execute the cells in the notebook sequentially to ensure all libraries are loaded and the application is initialized correctly.
+1.Execute the cells in the notebook sequentially to ensure all libraries are loaded and the application is initialized correctly.
 
-When prompted, upload an image containing English text for extraction.
+2.When prompted, upload an image containing English text for extraction.
 
 Usage Instructions:
 
 Once the application is running, follow these steps:
 
-Upload your image file containing English text using the upload feature in the interface.
+1.Upload your image file containing English text using the upload feature in the interface.
 
-After the image is processed, you will see the extracted text displayed on the screen.
+2.After the image is processed, you will see the extracted text displayed on the screen.
 
-Use the search functionality to enter specific keywords. The application will highlight all matching sections in the extracted text for easier visibility.
+3.Use the search functionality to enter specific keywords. The application will highlight all matching sections in the extracted text for easier visibility.
 
 
 
