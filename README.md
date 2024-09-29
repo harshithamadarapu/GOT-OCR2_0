@@ -52,7 +52,7 @@ Use the search functionality to enter specific keywords. The application will hi
 Screenshots:
 
 
-[OCR Web Application Screenshot]()(https://github.com/user-attachments/assets/5af440fd-b8c5-443a-8caf-0ecfa2211854)
+[OCR Web Application Screenshot](https://github.com/user-attachments/assets/5af440fd-b8c5-443a-8caf-0ecfa2211854)
 
 [OCR Web Application Screenshot with search]()(https://github.com/user-attachments/assets/3ab84721-141e-4971-a7b1-860171fe5f5d)
 
