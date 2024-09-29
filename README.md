@@ -16,7 +16,7 @@ Features:
 
 Prerequisites:
 
-Before running the application, ensure you have access to Google Colab and a suitable environment set up.
+* Before running the application, ensure you have access to Google Colab and a suitable environment set up.
 
 Setup Instructions:
 
