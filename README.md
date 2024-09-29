@@ -54,8 +54,7 @@ Screenshots:
 
 [OCR Web Application Screenshot]()![WhatsApp Image 2024-09-29 at 12 26 47](https://github.com/user-attachments/assets/5af440fd-b8c5-443a-8caf-0ecfa2211854)
 
-[OCR Web Application Screenshot with search](<img width="1440" alt="ocr_screenshot3" src="https://github.com/user-attachments/assets/20794ad2-bd26-47d0-8302-92cf8e39248d">
-)
+[OCR Web Application Screenshot with search](https://github.com/user-attachments/assets/3ab84721-141e-4971-a7b1-860171fe5f5d)
 
 [OCR Web Application Screenshot with hightlighted text](![ocrscreenshot2 (1)](https://github.com/user-attachments/assets/b93e077e-9d89-4958-a0d2-9e8c439a5367)
 )
