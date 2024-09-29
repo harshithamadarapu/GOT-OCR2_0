@@ -54,9 +54,9 @@ Screenshots:
 
 [OCR Web Application Screenshot](https://github.com/user-attachments/assets/5af440fd-b8c5-443a-8caf-0ecfa2211854)
 
-[OCR Web Application Screenshot with search]()(https://github.com/user-attachments/assets/3ab84721-141e-4971-a7b1-860171fe5f5d)
+[OCR Web Application Screenshot with search](https://github.com/user-attachments/assets/3ab84721-141e-4971-a7b1-860171fe5f5d)
 
-[OCR Web Application Screenshot with hightlighted text]()(https://github.com/user-attachments/assets/b93e077e-9d89-4958-a0d2-9e8c439a5367)
+[OCR Web Application Screenshot with hightlighted text](https://github.com/user-attachments/assets/b93e077e-9d89-4958-a0d2-9e8c439a5367)
 
 
 
